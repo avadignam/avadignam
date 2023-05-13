@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avadignam
-- 👀 I’m interested in any front-end technologies, with extensive experience in React and some experience in React Native
-- 🌱 I’m currently learning how to create my own SVGs, just working on some silly little ones to get started, with a view to writing my own library :)
+- 👀 I’m interested in any front-end technologies, with extensive experience in React with Typescript and some experience in React Native
+- 🌱 I’m currently working on a reusable component library to use in my personal projects. 
 - 📫 How to reach me: avadignam1@gmail.com
 
 <!---
